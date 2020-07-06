@@ -30,7 +30,11 @@ export default function LiveSearch(props) {
   return (
     <React.Fragment>
       <SearchBar onSearch={(term) => setTerm(term)} />
-      {searched && <SearchResult results={results} />}
+      {searched && (
+        <div className="search-results">
+          <SearchResult results={results} />
+        </div>
+      )}
     </React.Fragment>
   );
 }
