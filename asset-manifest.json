@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photohack/static/css/main.75df9f48.chunk.css",
+    "main.js": "/photohack/static/js/main.9881cbe6.chunk.js",
+    "main.js.map": "/photohack/static/js/main.9881cbe6.chunk.js.map",
+    "runtime-main.js": "/photohack/static/js/runtime-main.75b67618.js",
+    "runtime-main.js.map": "/photohack/static/js/runtime-main.75b67618.js.map",
+    "static/js/2.3a46d873.chunk.js": "/photohack/static/js/2.3a46d873.chunk.js",
+    "static/js/2.3a46d873.chunk.js.map": "/photohack/static/js/2.3a46d873.chunk.js.map",
+    "index.html": "/photohack/index.html",
+    "precache-manifest.fc71abb0ac91faf6a3f9b2d5533268ef.js": "/photohack/precache-manifest.fc71abb0ac91faf6a3f9b2d5533268ef.js",
+    "service-worker.js": "/photohack/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/photohack/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.3a46d873.chunk.js.LICENSE.txt": "/photohack/static/js/2.3a46d873.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/photohack/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75b67618.js",
+    "static/js/2.3a46d873.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.9881cbe6.chunk.js"
+  ]
+}
