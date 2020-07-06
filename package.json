@@ -1,5 +1,6 @@
 {
   "name": "photohack",
+  "homepage": "https://mcagan.github.io/photohack/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
